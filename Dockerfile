@@ -1,3 +1,5 @@
+# Author AndriusMrc
+# Created Date February 19, 2021
 FROM centos
 
 RUN yum install -y sudo
